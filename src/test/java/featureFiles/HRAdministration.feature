@@ -12,7 +12,7 @@ Feature: HRAdministration page
     
     Examples: 
     | url                                           | username | password    | employeename | username1 | password1 | confirmpassword |
-    |                                               |          |             | Alex         | 299501    | Apex@1995 | Apex@1995       |
+    | https://apex1995-trials711.orangehrmlive.com/ |    Admin | 1w@SwFXo4Q  | Alex         | 299501    | Apex@1995 | Apex@1995       |
       
   @deleteUser
   Scenario Outline: Add user and check if user is displayed in Users section
@@ -24,5 +24,5 @@ Feature: HRAdministration page
     
     Examples: 
    | url                                           | username | password    | employeename | username1 | password1 | confirmpassword |
-   |                                               |          |             | Alex         | 299501    | Apex@1995 | Apex@1995       |
+   | https://apex1995-trials711.orangehrmlive.com/ |    Admin | 1w@SwFXo4Q  | Alex         | 299501    | Apex@1995 | Apex@1995       |
       
