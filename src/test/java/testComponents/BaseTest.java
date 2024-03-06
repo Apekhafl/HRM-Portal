@@ -49,6 +49,5 @@ public class BaseTest {
 		}
 		driver.manage().window().maximize();
 		return driver;
-		
 	}
 }
