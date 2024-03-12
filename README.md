@@ -24,4 +24,4 @@ The goal of this project is to perform comprehensive testing of the login and ad
 
 **Example**
 
-[HTML Report]([../blob/master/LICENSE](https://github.com/Apekhafl/HRM-Portal/blob/master/test-reports%207-03-24%2014-38-14/test-output/sparkReport/result.html)https://github.com/Apekhafl/HRM-Portal/blob/master/test-reports%207-03-24%2014-38-14/test-output/sparkReport/result.html)
+[HTML Report](https://github.com/Apekhafl/HRM-Portal/tree/master/test-reports%207-03-24%2014-38-14/test-output)
