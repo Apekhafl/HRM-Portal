@@ -20,3 +20,7 @@ The goal of this project is to perform comprehensive testing of the login and ad
 -	Cucumber Framework
 -	Jenkins
 -	ExtentReports
+
+**Example**
+
+[HTML Report](C:\Users\Apeksha\eclipse-workpace-testing\SeleniumHRPortal\test-reports 7-03-24 14-38-14\test-output\sparkReport\result.html)
